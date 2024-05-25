@@ -1,0 +1,2 @@
+# friend.github.io
+file
